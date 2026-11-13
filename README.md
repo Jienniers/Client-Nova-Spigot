@@ -10,9 +10,7 @@ The plugin plays like a trim-powered lifesteal system: kills make you stronger, 
 
 ### Project Context
 
-Nova Spigot was one of my first freelance client projects, built for a Fiverr client in 2023. The client wanted a custom Minecraft PvP plugin that combined armor trims, player progression, abilities, and a high-risk level system.
-
-This project is not actively maintained anymore, and it represents an older version of my coding skills. I am keeping it here as a portfolio/archive project because it shows real client work, practical plugin development, and my early experience turning a gameplay idea into a working server feature.
+Nova Spigot was one of my first freelance client projects, built for a client in 2023. The client wanted a custom Minecraft PvP plugin that combined armor trims, player progression, abilities, and a high-risk level system.
 
 ### Client Requirements
 
